@@ -1,7 +1,7 @@
 # NE411: Xe-135 Poisoning and Reactor Deadtime Simulation
 
 ## 📌 Project Overview
-This repository contains a MATLAB simulation for **NE411 Assignment 1**, focusing on Xenon-135 (Xe-135) poisoning dynamics after a nuclear reactor shutdown. The script calculates equilibrium concentrations, tracks reactivity changes over time, identifies peak poisoning, and determines the reactor's "Deadtime."
+This repository contains a MATLAB simulation Xenon-135 (Xe-135) poisoning dynamics after a nuclear reactor shutdown. The script calculates equilibrium concentrations, tracks reactivity changes over time, identifies peak poisoning, and determines the reactor's "Deadtime."
 
 ## 🚀 Features
 - **Equilibrium Calculation:** Verifies initial $N_I$ and $N_{Xe}$ concentrations at steady-state operation.
