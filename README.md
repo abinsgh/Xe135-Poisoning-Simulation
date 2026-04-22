@@ -54,15 +54,12 @@ The simulation generates the following analytical report in the command window:
  - Total Deadtime Duration   : 7.67 hours
 ====================================================
 ```
-
-📈 Visual Simulation (Reactivity Curve)
+## 📈 Visual Simulation (Reactivity Curve)
 The following graph visualizes the Xe-135 poisoning curve, highlighting the analytical model, the exact data points, and the shaded deadtime region where reactivity exceeds the control rod limit.
 
-🛠️ Usage
-Clone the repository to your local machine.
+![Xe-135 Reactivity Curve](Xe135_Reactivity_Deadtime.png)
 
-Open the main script in MATLAB.
-
-Run the script. The output will print directly to the command window, and the plot will be saved automatically as Xe135_Reactivity_Deadtime.png in the current directory.
-
-Run the script. The output will print directly to the command window, and the plot will be saved automatically as Xe135_Reactivity_Deadtime.png in the current directory.
+## 🛠️ Usage
+1. Clone the repository to your local machine.
+2. Open the main script in MATLAB.
+3. Run the script. The output will print directly to the command window, and the plot will be saved automatically as `Xe135_Reactivity_Deadtime.png` in the current directory.
