@@ -53,6 +53,8 @@ The simulation generates the following analytical report in the command window:
  - Deadtime End Time         : 13.70 hours
  - Total Deadtime Duration   : 7.67 hours
 ====================================================
+```
+
 📈 Visual Simulation (Reactivity Curve)
 The following graph visualizes the Xe-135 poisoning curve, highlighting the analytical model, the exact data points, and the shaded deadtime region where reactivity exceeds the control rod limit.
 
