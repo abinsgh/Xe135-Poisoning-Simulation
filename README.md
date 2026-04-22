@@ -59,8 +59,10 @@ The simulation generates the following analytical report in the command window:
 The following graph visualizes the Xe-135 poisoning curve, highlighting the analytical model, the exact data points, and the shaded deadtime region where reactivity exceeds the control rod limit.
 
 🛠️ Usage
-Clone the repository.
+Clone the repository to your local machine.
 
 Open the main script in MATLAB.
+
+Run the script. The output will print directly to the command window, and the plot will be saved automatically as Xe135_Reactivity_Deadtime.png in the current directory.
 
 Run the script. The output will print directly to the command window, and the plot will be saved automatically as Xe135_Reactivity_Deadtime.png in the current directory.
